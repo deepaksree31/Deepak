@@ -1,5 +1,5 @@
 ---
-title: "Atlassian Deployment Triggers"
+title: "Gurukulam"
 link: "https://github.com/gurukulams/gurukulam"
 image: "/img/gurukulams-logo.png"
 description: "Initiative work  done for student by transforming traditional physical books to E-books"
