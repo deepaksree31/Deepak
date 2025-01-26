@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ "IP Networking", "PC buildings", "Networking", "troubleshooting"]
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
@@ -9,15 +9,12 @@
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":[ "MySQL"]
   },
   {
       "grouping":"Data Management",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"Microsoft SQL Server","icon":"msql_server"}
       ]
   },
   {
