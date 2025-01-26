@@ -1,39 +1,32 @@
 [
   {
-    "grouping": "Cyber Security Researching",
-    "skills": ["IP Networking", "PC building", "Network configurations", "Troubleshooting"]
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
   },
   {
-    "grouping": "Database Management",
-    "skills": [
-      { "name": "Microsoft SQL Server", "icon": "msql_server" },
-      { "name": "MySQL", "icon": "database" },
-      { "name": "PostgreSQL" }
-    ]
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
   },
   {
-    "grouping": "Languages, Operating Systems & Tools",
-    "skills": [
-      { "name": "C" },
-      { "name": "C++" },
-      { "name": ".Net and C#" },
-      { "name": "Java" },
-      { "name": "Python" },
-      { "name": "PHP" },
-      { "name": "Git" },
-      { "name": "Linux" }
-    ]
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"},
+        "MongoDB",
+        {"name":"Apache Spark"}
+      ]
   },
   {
-    "grouping": "UI/UX",
-    "skills": [
-      { "name": "HTML 5" },
-      { "name": "CSS 3" },
-      { "name": "JavaScript" }
-    ]
-  },
-  {
-    "grouping": "GitOps",
-    "skills": [{ "name": "Git" }]
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"BOSH","link":"https://bosh.io"},
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
   }
 ]
