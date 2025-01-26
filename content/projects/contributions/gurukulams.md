@@ -2,14 +2,15 @@
 title: "Gurukulams"
 link: "https://github.com/gurukulams/gurukulam"
 image: "/img/gurukulams-logo.png"
-description: "Initiative work  done for student by transforming traditional physical books to E-books"
+description: "Initiative work done for students by transforming traditional physical books to E-books"
 featured: true
-tags: ["Markdown", "Katex", "Git, "VSCode", "Hugo"]
-fact: "Mordenize the Education Experience of students."
+tags: ["Markdown", "Katex", "Git", "VSCode", "Hugo"]
+fact: "Modernize the Education Experience of students."
 weight: 100
 sitemap: 
-    priority : 0.8
+    priority: 0.8
 ---
+
 
 Gurukulams is an open-source initiative dedicated to transforming traditional textbooks into dynamic, **interactive digital resources**. Unlike standard PDFs or other digital material repositories, our platform provides an enriched learning experience through advanced features that go beyond the limitations of physical books.
 
