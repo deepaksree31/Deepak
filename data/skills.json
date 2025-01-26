@@ -22,11 +22,7 @@
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"AWS","link":"https://aws.amazon.com"}
       ]
   }
 ]
