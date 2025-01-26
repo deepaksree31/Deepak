@@ -2,9 +2,16 @@
   {
       "grouping":"Architecture",
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
+  },
+  {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[  {"name":"C"},
+        {"name":"C++"},
+        {"name":".Net and c#"},
+        {"name":"Java"},
+        {"name":"Python"},
+        {"name":"git"},
+        ]
   },
   {
       "grouping":"Platform Development & Administration",
