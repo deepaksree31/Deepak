@@ -1,23 +1,42 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":["IP Networking","PC Building","Networking","PC troubleshooting"]
-  },
+    "grouping":"Cyber Security Researching",
+    "skills":[ "IP Networking","PC building", "Network configurations", "Troubleshooting"]
+},
   {
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":["Python","Java","git","HTML","javascript","Linux","C","C++","C#"]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "MySQL"]
-  },
-  {
-      "grouping":"Data Management",
+      "grouping":"DataBase Management",
       "skills":[
         {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"My SQL","icon":"database"},
+        {"name": "PostgreSQL"}
       ]
-  }
+  },
+  {
+    "grouping":"Languages, Operating Systems & Tools",
+    "skills":[  
+        {"name":"C"},
+        {"name":"C++"},
+        {"name":".Net and c#"},
+        {"name":"Java"},
+        {"name":"Python"},
+        {"name":"php"},
+        {"name":"git"},
+        {"name":"linux"},
+      ]
+},
+{
+  "grouping":"UI/UX",
+  "skills":[
+    {"name":"HTML 5"},
+    {"name":"CSS 3"},
+    {"name":"Javascript"},
+    }
+  ]
+},
+
+{
+  "grouping":"GitOps",
+  "skills":["Git"]
+}
+
 ]
