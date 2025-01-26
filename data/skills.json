@@ -5,13 +5,7 @@
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[  {"name":"C"},
-        {"name":"C++"},
-        {"name":".Net and c#"},
-        {"name":"Java"},
-        {"name":"Python"},
-        {"name":"git"},
-        ]
+      "skills":[ "Python","Java","git","HTML","javascript","Linux","C","C++","C#"]
   },
   {
       "grouping":"Platform Development & Administration",
