@@ -1,41 +1,39 @@
 [
   {
-    "grouping":"Cyber Security Researching",
-    "skills":[ "IP Networking","PC building", "Network configurations", "Troubleshooting"]
-},
-  {
-      "grouping":"DataBase Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"My SQL","icon":"database"},
-        {"name": "PostgreSQL"}
-      ]
+    "grouping": "Cyber Security Researching",
+    "skills": ["IP Networking", "PC building", "Network configurations", "Troubleshooting"]
   },
   {
-    "grouping":"Languages, Operating Systems & Tools",
-    "skills":[  
-        {"name":"C"},
-        {"name":"C++"},
-        {"name":".Net and c#"},
-        {"name":"Java"},
-        {"name":"Python"},
-        {"name":"php"},
-        {"name":"git"},
-        {"name":"linux"},
-      ]
-},
-{
-  "grouping":"UI/UX",
-  "skills":[
-    {"name":"HTML 5"},
-    {"name":"CSS 3"},
-    {"name":"Javascript"}
-  ]
-},
-
-{
-  "grouping":"GitOps",
-  "skills":["Git"]
-}
-
+    "grouping": "Database Management",
+    "skills": [
+      { "name": "Microsoft SQL Server", "icon": "msql_server" },
+      { "name": "MySQL", "icon": "database" },
+      { "name": "PostgreSQL" }
+    ]
+  },
+  {
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      { "name": "C" },
+      { "name": "C++" },
+      { "name": ".Net and C#" },
+      { "name": "Java" },
+      { "name": "Python" },
+      { "name": "PHP" },
+      { "name": "Git" },
+      { "name": "Linux" }
+    ]
+  },
+  {
+    "grouping": "UI/UX",
+    "skills": [
+      { "name": "HTML 5" },
+      { "name": "CSS 3" },
+      { "name": "JavaScript" }
+    ]
+  },
+  {
+    "grouping": "GitOps",
+    "skills": [{ "name": "Git" }]
+  }
 ]
