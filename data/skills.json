@@ -9,7 +9,7 @@
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "MySQL"]
+      "skills":[{ "name" : "MySQL"}]
   },
   {
       "grouping":"Data Management",
