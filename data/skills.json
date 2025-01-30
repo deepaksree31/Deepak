@@ -1,11 +1,11 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking", "PC buildings", "Networking", "troubleshooting"]
+      "skills":[ {"name" : "PC buildings"}, {"name" : "Networking"}, {"name" : "troubleshooting"}]
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Python","Java","git","HTML","javascript","Linux","C","C++","C#"]
+      "skills":[ {"name" : "Python"},{"name" : "Java"},{"name" : "git"},{"name" : "HTML"},{"name" : "javascript"},{"name" : "Linux"},{"name" : "C"},{"name" : "C++"},{"name" : "C#"}]
   },
   {
       "grouping":"Platform Development & Administration",
