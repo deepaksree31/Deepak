@@ -4,12 +4,11 @@
   "image": "/img/pfp.jpg",
   "link": "https://github.com/Mr-Kishore/Project_V",
   "image": "/img/pfp.jpg",
-  "description": "A simple ML based program used to access, modify and delete data in a database either using keyboard
-                  commands or using Push-to-talk feature",
+  "description": "A simple ML based program used to access, modify and delete data in a database either using keyboard commands or using Push-to-talk feature",
   "tags": ["Python Programming","User Application", "File Handling", "Machine Lerning", "Advanced Python Concepts", "Real-world Application"],
   "fact": "",
-  "featured":true,
-  "Credits":"Initial program done by me", "referred voice assisant concepts from github and deepseek and modified it"
+  "featured":true
+
 }
 
 ## Overview
