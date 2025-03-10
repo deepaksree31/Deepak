@@ -13,7 +13,7 @@
 }
 
 ## Overview
-The **Student Detail Management System** is a Python-based console application that simplifies managing student, staff, academic, and transport records through **voice commands**. It utilizes **speech recognition** and **text-to-speech (TTS)** to minimize manual input, making it an intuitive and user-friendly system.
+A **Student Detail Management System** is a Python-based console application that simplifies managing student, staff, academic, and transport records through **voice commands**. It utilizes **speech recognition** and **text-to-speech (TTS)** to minimize manual input, making it an intuitive and user-friendly system.
 
 ## Features
 - Voice-activated menu navigation
@@ -80,7 +80,7 @@ The system is modular and categorized into different functional sections:
 ## Notes
 - The program listens for voice input **only after the SPACEBAR is pressed**.
 - All records are stored in **CSV files** for persistence.
-- **Fuzzy string matching** enhances command recognition.
+- **Fuzzy string matching** enhances command recognition.           
 
 ## Conclusion
 This **voice-controlled student management system** eliminates tedious manual input, making data handling effortless. The combination of **speech recognition and text-to-speech** improves accessibility. Future upgrades could include a GUI and database integration for enhanced performance and scalability.
