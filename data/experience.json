@@ -1,8 +1,12 @@
 [
-   
-    {
+   {
         "role":"Machine Learning Developer",
         "company":"ABC Company LTD",
+        "summary":"Worked with profesionals and gained knowledge in the field of IoT (Internet of Things) ",
+        "range":"December 2023 - January 2024"
+    },
+    {
+        "role":"Machine Learning Developer",
         "summary":"Learned about Machine Learning concepts  and tools used",
         "range":"March 2024"
     },
