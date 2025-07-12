@@ -20,7 +20,13 @@
     {
         "role":"AI Intern",
         "company":"uSIS Technologies",
-        "summary":"Working as an AI intern",
-        "range":"March 2025 - present"
+        "summary":"Worked as an AI intern",
+        "range":"March 2025 - June 2025"
+    },
+    {
+       "role":"SRE Intern",
+       "company":"Ventragate Technologies",
+       "summary":"Practicing as a SRE (DevOps) Intern";
+       "range":"June 2025 - present"
     }
 ]
