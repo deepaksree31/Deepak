@@ -1,4 +1,4 @@
-title = "Kishore"
+title = "Deepak"
 baseURL = "https://example.com/"
 theme = "my-resume"
 languageCode = "en-us"
@@ -10,9 +10,9 @@ enableGitInfo = false
 [params]
 address = "Coimbatore, India"
 favicon = "/favicon.ico"
-firstName = "Kishore"
+firstName = "Deepak"
 lastName = ""
-phone = "+91 9025084568"
+phone = "+91 9360268571"
 showSocializations = true
 showContact = false
 sections = ["skills","education", "experience","contributions","creations","blog"]
@@ -24,11 +24,11 @@ sections = ["skills","education", "experience","contributions","creations","blog
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://linkedin.com/in/kishoreee"
+link =" https://www.linkedin.com/in/deepak-s-a3929432a"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/Mr-Kishore/"
+link = "https://github.com/deepaksree31"
 name = "GitHub"
 
 [[params.handles]]
