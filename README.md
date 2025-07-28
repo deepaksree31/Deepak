@@ -1,4 +1,4 @@
-# Mr-Kishore.github.io
+# deepak.github.io
 Profile Page Sample
 
 ## Setup
