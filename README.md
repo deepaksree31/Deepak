@@ -1,4 +1,4 @@
-# deepak.github.io
+# Deepak.github.io
 Profile Page Sample
 
 ## Setup
